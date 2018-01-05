@@ -1,1 +1,2 @@
 C:\Users\imran\GitHub\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\imran\GitHub\MyStuff\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
